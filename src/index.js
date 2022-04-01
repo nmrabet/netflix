@@ -4,6 +4,7 @@ import { GlobalStyles } from "./global-styles";
 import { App } from "./app";
 import { FirebaseContext } from "./context/firebase";
 
+
 const config = {
   apiKey: "AIzaSyCCSJJcYauARP5UYQWpDOmIx--qYPMrCyU",
   authDomain: "netflix-ca0bb.firebaseapp.com",
